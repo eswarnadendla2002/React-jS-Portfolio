@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/eswarnadendla2002/React-jS-Portfolio.git/static/css/main.e05fcbcc.css",
+    "main.js": "/eswarnadendla2002/React-jS-Portfolio.git/static/js/main.47d05d3d.js",
+    "static/media/project2.jpg": "/eswarnadendla2002/React-jS-Portfolio.git/static/media/project2.7c1e38046f5ebb78e726.jpg",
+    "static/media/project1.jpg": "/eswarnadendla2002/React-jS-Portfolio.git/static/media/project1.04b54bf2b5b7d05261cb.jpg",
+    "static/media/project3.jpg": "/eswarnadendla2002/React-jS-Portfolio.git/static/media/project3.6147cb599c9ca5efc446.jpg",
+    "static/media/intro-bg.jpg": "/eswarnadendla2002/React-jS-Portfolio.git/static/media/intro-bg.c3791ec1d46a63d9efb3.jpg",
+    "static/media/react1.jpg": "/eswarnadendla2002/React-jS-Portfolio.git/static/media/react1.d63ca3791694cd8f6f49.jpg",
+    "static/media/react2.webp": "/eswarnadendla2002/React-jS-Portfolio.git/static/media/react2.8aa659a4278a7132e6f4.webp",
+    "index.html": "/eswarnadendla2002/React-jS-Portfolio.git/index.html",
+    "main.e05fcbcc.css.map": "/eswarnadendla2002/React-jS-Portfolio.git/static/css/main.e05fcbcc.css.map",
+    "main.47d05d3d.js.map": "/eswarnadendla2002/React-jS-Portfolio.git/static/js/main.47d05d3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e05fcbcc.css",
+    "static/js/main.47d05d3d.js"
+  ]
+}
